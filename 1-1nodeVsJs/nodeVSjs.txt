@@ -1,0 +1,10 @@
+3 Things that node have and js dont
+1-NodeJS allows Javascript code to run outside a browser, it is essentially an environment.
+2-Doesn't have the capability to add HTML tags, because it doesn't need to.
+3-NodeJS is essentially the V8 Javascript engine bundled with other useful libraries for I/O and networking.
+
+
+3 Things that js have and node dont
+1-Javascript is a programming language,that running in any web browser engine.
+2-Javascript has the ability to interact with the DOM and HTML elements.
+3-Javascript has alot of useful variables such as "document" that make interaction with the browser and it's services much easier
