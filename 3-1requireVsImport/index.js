@@ -9,9 +9,6 @@ Non - lexical; stay wherever it called.
   Not able to load partially. */
 import name, { func1, func2, func3 } from './module.js'
 import fs from 'fs';
-
-
-
 console.log(name);
 console.log(func1());
 console.log(func2());
